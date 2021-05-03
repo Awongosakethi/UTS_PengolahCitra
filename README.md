@@ -1,11 +1,11 @@
 # UTS Pengolah Citra (Matlab)
 
-#### Nama  : Awong Osakethi
-#### NIM   : 311910499
-#### Kelas : TI.19.A2
+### Nama  : Awong Osakethi
+### NIM   : 311910499
+### Kelas : TI.19.A2
 
-### Source Code
+## Source Code
 - Silahkan dilihat di folder UTS
 
-### Link Youtube
+## Link Youtube
 https://youtu.be/zyZE6LjyDlU
